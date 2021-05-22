@@ -21,7 +21,7 @@ In your `dune` file:
 If you wish to use a node module, just use this:
 
 ```ocaml
-let uniq = [%require unique]
+let uniq = [%require uniq]
 ```
 
 To use the compiled file in your browser you cin use your favorite JavScript bundler.
