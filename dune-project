@@ -7,7 +7,7 @@
 (source (github emilienlemaire/node_of_ocaml))
 (license Apache2)
 (authors "Emilien Lemaire")
-(maintainer "Emilien Lemaire")
+(maintainers "Emilien Lemaire")
 
 (package
   (name node_of_ocaml)

@@ -2,6 +2,7 @@
 opam-version: "2.0"
 version: "1.0.0"
 synopsis: "An OCaml ppx to require node modules"
+maintainer: ["Emilien Lemaire"]
 authors: ["Emilien Lemaire"]
 license: "Apache2"
 homepage: "https://github.com/emilienlemaire/node_of_ocaml"
