@@ -5,7 +5,7 @@
 (generate_opam_files true)
 
 (source (github emilienlemaire/node_of_ocaml))
-(license Apache2)
+(license Apache-2.0)
 (authors "Emilien Lemaire")
 (maintainers "Emilien Lemaire")
 
