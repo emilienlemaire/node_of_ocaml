@@ -1,0 +1,4 @@
+(library
+ (name node_of_ocaml)
+ (kind ppx_rewriter)
+ (libraries ppxlib))
