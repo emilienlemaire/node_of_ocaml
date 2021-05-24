@@ -15,7 +15,8 @@ In your `dune` file:
 (executable
   (name <exe_name>)
   (modes js)
-  (preprocess (pps node_of_ocaml)))
+  (libraries js_of_ocaml)
+  (preprocess (pps node_of_ocaml js_of_ocaml-ppx)))
 ```
 
 If you wish to use a node module, just use this:
